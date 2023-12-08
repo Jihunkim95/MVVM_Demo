@@ -5,7 +5,7 @@ MVVVM 패턴 단순 예제
 ## 시뮬예시
 사용자 이름, 나이를 입력하면 List에 보이는 앱
 
-<img src="https://velog.velcdn.com/images/darak551/post/89ecd894-dd67-4084-a1ac-ea380bcab5e8/image.png" width="200" height="300"/>
+<img src="https://velog.velcdn.com/images/darak551/post/89ecd894-dd67-4084-a1ac-ea380bcab5e8/image.png" width="300" height="400"/>
 
 ![](https://velog.velcdn.com/images/darak551/post/2c74f948-4066-4ba0-b95b-391d8b1f73da/image.png)
 
